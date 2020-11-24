@@ -12,7 +12,8 @@ The next Billion tech company
 
 ## Overview
 
-The HackYourFuture curriculum consists of 8 modules, spread over 7 months. Each module has a duration of 3 weeks, with the exception of [React](https://www.github.com/hackyourfuture/react) (5 weeks) and [Project](https://www.github.com/hackyourfuture/project) (7 weeks).
+The HackYourFuture curriculum consists of 8 modules, spread over 4 weeks. 2 modules has a duration  of one week, with the exception of [React](https://www.github.com/hackyourfuture/react) 
+and [Project](https://www.github.com/hackyourfuture/project) (4 weeks).
 
 In the following diagram you'll find the sequence of all the modules included:
 

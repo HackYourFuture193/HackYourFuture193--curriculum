@@ -4,7 +4,7 @@ The next Billion tech company
 
 
 
-> Here you can find an overview of the HackYourFuture193-curriculum
+> Here you can find an overview of the HackYourFuture193قطر في القلب-curriculum
  program. It gives insight in how our program is structured, organized, what you can expect from the modules that we teach and last but not least where we teach and where you can find support during the week. Below you can find an outline of the contents and learning goals per module. The headers of the different modules link to the actual repositories that both student and teacher will use to go through the material.
 
 - Are you a new teacher? Take a look [here](https://github.com/HackYourFuture/curriculum/blob/master/i-am-a-new-teacher.md) for some practical tips on how to get started!

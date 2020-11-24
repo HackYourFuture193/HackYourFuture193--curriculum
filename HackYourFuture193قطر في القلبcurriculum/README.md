@@ -1,4 +1,4 @@
-# HackYourFuture193 قطر في القلب  -curriculum
+# HackYourFuture193 قطر في القلب  -curriculum🇩🇪
 The next Billion tech company
 
 
